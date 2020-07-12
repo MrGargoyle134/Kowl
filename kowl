@@ -1,0 +1,12 @@
+#!/bin/sh
+
+now=$(date +"%T")
+noww=$(date)
+echo
+echo "   ^_^  | Computer name : $COMPUTERNAME"
+echo "  {O,O} | OS            : $OS"
+echo " ./)_)  | Term          : $TERM"
+echo "   \" \"  | Date          : $noww"
+echo 
+echo
+
