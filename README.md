@@ -9,4 +9,3 @@ Kowl is a free sh program who write your computer name, OS, terminal emulator an
 
 #Usage : 
 sh kowl 
-...
